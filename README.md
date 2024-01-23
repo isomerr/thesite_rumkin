@@ -1,6 +1,6 @@
 Rumkin.com Web Site
 ===================
-
+by Tyler Akins aka Fidian (https://github.com/fidian)
 
 Building
 --------
